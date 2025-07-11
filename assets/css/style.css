@@ -1,0 +1,25 @@
+body {
+    background-color: #fff;
+}
+
+.btn-primary, .btn-success {
+    background-color: #28a745;
+    border-color: #28a745;
+}
+
+.btn-primary:hover, .btn-success:hover {
+    background-color: #218838;
+    border-color: #1e7e34;
+}
+
+.navbar-dark .navbar-brand {
+    color: #fff;
+}
+
+.list-group-item-action:hover {
+    background-color: #e9ecef;
+}
+
+.navbar {
+    background-color: #28a745 !important;
+}
